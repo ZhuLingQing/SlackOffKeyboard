@@ -8,7 +8,7 @@ Utilize RaspberryPi - Zero W USB-OTG to emulate a USB-HID keyboard.
 `sudo bash Setup/USB_Setup.sh`  
 会自动配置出一个HID-Keyboard设备。  
 `python3 slack_off.py [text_file]`  
-会自动讲整篇文本作为源用虚拟键盘进行输入。  
+会自动将整篇文本作为源用虚拟键盘进行输入。  
 
 ## TO DO
 - 不同脚本类型的自动缩进调整  
